@@ -1,0 +1,6 @@
+<LOOP> NNN (<Lane A | Lane B-light | Lane B>): <what changed, one line>
+
+<The measurement that motivated it: which stage, how much time, where it went (trace/profile numbers).>
+<What the change does, and why the result is identical (or why it is statistically equal).>
+<VERIFY / gate result: e.g. "0 differing rows in every build at points P1 and P2", "hashes identical to <TAG>_OFF".>
+<Timing: interleaved A/B numbers.> <TAG>_OFF=1: the old path.

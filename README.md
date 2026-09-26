@@ -1,7 +1,9 @@
 # iterative_hillclimber
 
-The ERA loop: a disciplined, journaled hill-climbing workflow for making an existing scientific application faster
-without changing its results. Application-independent: the method (docs/), templates for a new loop (templates/),
+LLM-guided autoresearch loop: a disciplined, journaled hill-climbing workflow for making an existing scientific application faster
+without changing its results. Inspired by [ERA: An AI system to help scientists write expert-level empirical software](https://www.nature.com/articles/s41586-026-10658-6).
+
+Application-independent: the method (docs/), templates for a new loop (templates/),
 generic tools (scripts/), and a worked example (examples/).
 
 - Agents: start at [SKILL.md](SKILL.md), then `docs/00_overview.md`.
